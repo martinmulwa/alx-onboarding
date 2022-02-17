@@ -1,0 +1,10 @@
+This program calculates the sum of squares of a given input of n numbers
+
+- input n the number of numbers
+- set a variable sum to 0
+- repeat n times:
+	- input a number m
+	- calculate the square of m
+	- add the result to sum
+- print sum
+

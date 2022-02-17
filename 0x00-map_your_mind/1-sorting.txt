@@ -1,0 +1,10 @@
+This program reads in three numbers and writes them all in sorted order
+
+- initialize empty int array nums of size 3
+- repeat 3 times:
+	- input number m
+	- add m to nums
+- sort the array nums
+- for each number in nums:
+	- print the number
+

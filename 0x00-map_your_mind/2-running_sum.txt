@@ -1,0 +1,10 @@
+This program calculates a running sum
+
+- initialize a variable sum to 0
+- while true:
+	- input number n
+	- if n < 0:
+		- break from loop
+	- add n to sum
+- print sum
+
